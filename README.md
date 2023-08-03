@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component solution
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DarieldonMedeiros/qr-code-component/blob/main/LICENSE)
+
 Aqui está a solução do  [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam a melhorar os conhecimentos de programação, ao desenvolver projetos realísticos. Essse projeto é um site simples que contém um QR code que redireciona para o link da página do [Frontend Mentor](https://www.frontendmentor.io).
 
 ## Índice
