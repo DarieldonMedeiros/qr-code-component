@@ -27,7 +27,7 @@ Aqui está a solução do  [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Site da Solução: [Clique aqui!](https://your-solution-url.com)
+- Site da Solução: [Clique aqui!](https://darieldonmedeiros.github.io/qr-code-component/)
 
 ## Procedimento Realizado
 
