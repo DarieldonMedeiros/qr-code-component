@@ -39,7 +39,7 @@ Aqui está a solução do  [QR code component challenge on Frontend Mentor](http
 
 ### O Que Eu Aprendi
 
-Com esse projeto, eu aprendi a colocar um elemento destacado no meio da tela, através do CSS. As cores e as fontes utilizadas estão no [Guia de Estilo](./style-guide.md).
+Com esse projeto, eu aprendi a colocar um elemento destacado no meio da tela, através do CSS que está abaixo. As cores e as fontes utilizadas estão no [Guia de Estilo](./style-guide.md).
 
 
 ```css
