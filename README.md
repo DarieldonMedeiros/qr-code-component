@@ -13,7 +13,7 @@ Aqui está a solução do  [QR code component challenge on Frontend Mentor](http
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [O Que Eu Aprendi](#o-que-eu-aprendi)
 - [Autor](#autor)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Vizualização da Página
 
